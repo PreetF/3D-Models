@@ -33,12 +33,6 @@ This repository showcases a collection of 3D models designed using **Rhino 3D** 
 
 ---
 
-## 📄 License
-
-This project is shared for learning and portfolio purposes only. **Do not reuse or redistribute without permission.**
-
----
-
 ## 🙋‍♂️ Author
 
 **Preet Faldu**  
