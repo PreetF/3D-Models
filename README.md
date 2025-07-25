@@ -8,7 +8,7 @@ This repository showcases a collection of 3D models designed using **Rhino 3D** 
 
 - `/Rhino3D_Models` – Native `.3dm` files designed in Rhino3D
 - `/Keyshot_Renders` – High-quality render images exported from KeyShot
-- `/References` – Optional sketches or concept references used during modeling
+- `/Screenshots` – Screenshots of renderings for quick previews or documentation
 
 ---
 
@@ -16,7 +16,6 @@ This repository showcases a collection of 3D models designed using **Rhino 3D** 
 
 - **Rhinoceros 3D (Rhino)** – NURBS-based 3D modeling
 - **KeyShot** – Real-time ray tracing and global illumination rendering software
-- **Adobe Photoshop** *(optional)* – For post-processing renders
 
 ---
 
